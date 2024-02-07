@@ -93,11 +93,11 @@ body{
 
 /* Desktop */
 @media (min-width: 600px) {
-    .card{
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-    }
-    .card__content{
-      padding: 2rem;
-    }
+  .card{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
   }
+  .card__content{
+    padding: 2rem;
+  }
+}
